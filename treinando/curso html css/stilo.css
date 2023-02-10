@@ -1,0 +1,17 @@
+ul { margin: 0;
+    padding: 0;
+    list-style:none;
+    width: 720px;
+}
+ul li{
+    border: solid gray 1px;
+    float: left;
+    background: rgb(65, 163, 202);
+}
+ul a {
+    padding: 0 2em;
+    display: block;
+    line-height: 2em;
+    text-decoration: none;
+    color: blue
+}
